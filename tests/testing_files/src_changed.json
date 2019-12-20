@@ -1,0 +1,9 @@
+{
+    "@odata.context": "https://graph.microsoft.com/beta/$metadata#users",
+    "value": [
+        {
+            "id": "6e7b768e-07e2-4810-8459-485f84f8f204",
+            "mail": "Adams@M365x214355.onmicrosoft.com"
+        }
+    ]
+}
